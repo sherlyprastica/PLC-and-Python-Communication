@@ -1,5 +1,5 @@
 # PLC-and-Python-Communication
-PLC Siemens and Python Communication using Snap7 Protocol
+\n PLC Siemens and Python Communication using Snap7 Protocol
 Snap7 v1.0
 TIA Portal v15
 for clearly explanation watch this link:
